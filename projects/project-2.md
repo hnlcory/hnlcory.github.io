@@ -2,16 +2,14 @@
 layout: project
 type: project
 image: images/vacay-square.png
-title: Vacay
+title: Banking Database Application
 permalink: projects/vacay
 # All dates must be YYYY-MM-DD format!
-date: 2015-12-15
+date: 2021-11-09
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
+  - C++
   - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+summary: An application to manage customer's bank records stored in their database.
 ---
 
 <img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
