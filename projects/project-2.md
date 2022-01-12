@@ -10,6 +10,7 @@ labels:
   - C++
   - GitHub
 summary: An application to manage customer's bank records stored in their database.
+projecturl: https://hnlcory.github.io/projects/BankDB
 ---
 
 <img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
