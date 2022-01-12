@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Cory Parker",
-    "label": "Student",
+    "label": "Computer Security Science Student",
     "picture": "https://hnlcory.github.io/images/profile.png",
     "email": "corylp@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "phone": "",
+    "website": "https://hnlcory.github.io",
+    "summary": "Beginning with an interest in the modification of gaming handhelds, the growing passion to explore software vulnerabilities and exploits has set my path toward the pursuit of a Security Science degree at the University of Hawaiʻi at Mānoa. I plan to graduate in 2024 with my Bachelor of Science.",
     "location": {
       "address": "",
       "postalCode": "96706",
