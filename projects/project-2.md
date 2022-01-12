@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/vacay-square.png
 title: Banking Database Application
-permalink: projects/vacay
+permalink: projects/BankDB
 # All dates must be YYYY-MM-DD format!
 date: 2021-11-09
 labels:
