@@ -15,10 +15,9 @@ projecturl: https://hnlcory.github.io/projects/BankDB
 
 <img class="ui medium right floated rounded image" src="https://hnlcory.github.io/images/bankDB.png">
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+The Bank Database project is intended to be an application used by bank staff which can store the information of their clients. The command prompt is utilized to interact with the system while the storage, addition, search, and deletion of customer records are handled by the database. 
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
+This project was created within the UH Unix system, utilizing the C++ platform. This project was created within the UH Unix system, utilizing the C++ platform. Through extensive testing, the application is able to store a wide range of information as well as proper error handling, and debug options within the application. Makefile is also utilized to easily generate public, and debug builds of the application.
 
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
  
 Source: <a href="https://github.com/hnlcory/ICS212/tree/main/project2"><i class="large github icon"></i>BankingDatabase</a>
