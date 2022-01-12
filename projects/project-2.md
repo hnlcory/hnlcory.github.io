@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: hnlcory.github.io/images/bankDB.png
+image: images/bankDB.png
 title: Banking Database Application
 permalink: projects/BankDB
 # All dates must be YYYY-MM-DD format!
