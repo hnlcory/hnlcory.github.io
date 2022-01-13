@@ -17,33 +17,7 @@ projecturl: https://hnlcory.github.io/projects/blackjack
 
 Cotton is a horror-esque text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
 
-To give you a flavor of the game, here is a
-
-
-
-def hit_or_stand(deck,hand):
-    global playing 
-    
-    while True:
-        x = input("Would you like to Hit, Stand or Double Down? Enter 'h', 's' or 'd'\n")
-        
-        if x[0].lower() == 'h':
-            hit(deck,hand)  
-
-        elif x[0].lower() == 's':
-            print("Player stands. Dealer is playing.")
-            playing = False
-        
-        elif x[0].lower() == 'd':
-            print('Double Down. 2x the bet and only 1 more card')
-            zzz = True
-            hit(deck,hand)
-            playing = False
-
-        else:
-            print("")
-            continue
-        break
+To give you a flavor of the game, here is abreak
 
 def show_some(player,dealer):
     print(Fore.RED +'\n______________')
@@ -71,33 +45,6 @@ def show_all(player,dealer):
     print("%s's Hand =" % (playername),player.value)
     
 
-#game scenarios
-def player_busts(player,dealer,chips):
-    if zzz == True:
-        print('2x Bust')
-        chips.lose_bet()
-        chips.lose_bet()
-     
-    else:
-        print(Fore.RED +"\n%s busts" % (playername))
-        chips.lose_bet()
-    
-def player_wins(player,dealer,chips):
-    print(Fore.GREEN +"\n%s wins" % (playername))
-    chips.win_bet()
-
-def dealer_busts(player,dealer,chips):
-    print(Fore.GREEN +"Dealer busts")
-    chips.win_bet()
-    
-def dealer_wins(player,dealer,chips):
-    print(Fore.RED +"Dealer wins")
-    chips.lose_bet()
-    
-def push(player,dealer):
-    print(Fore.RED +"Tied Game. It's a push.")   
-   
-}
 
 
 
