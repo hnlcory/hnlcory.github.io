@@ -21,6 +21,20 @@ body {
    background: #B0C4DE;
 }
 
+// "Read More" buttons
+a.ui.bottom.attached.button {
+  color: white;
+  background: #B0C4DE;
+  &:hover {
+    background: darken(#B0C4DE, 20%);
+}
+
+// Tag pill boxes
+div.ui.basic.label {
+  color: white;
+  background: #B0C4DE;
+}
+
 // Customize the home page icon colors
 .icon-color {
    color: darken(#B0C4DE, 20%);
