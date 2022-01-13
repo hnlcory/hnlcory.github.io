@@ -20,31 +20,10 @@ Cotton is a horror-esque text-based adventure game I developed using the functio
 To give you a flavor of the game, here is abreak
 
 <div style="overflow-y: scroll; height:400px;">
-def show_some(player,dealer):
-    print(Fore.RED +'\n______________')
-    print(Fore.RED +"Dealer's Hand:")
-    print('¯¯¯¯¯¯¯¯¯¯¯¯¯¯')
-    time.sleep(1)
-    print(" -- Hidden --")
-    print('',dealer.cards[1])
-    time.sleep(1)
-    print(Fore.BLUE +'\n______________')  
-    print(Fore.BLUE +"%s's Hand:" % (playername))
-    print('¯¯¯¯¯¯¯¯¯¯¯¯¯¯')
-    print(*player.cards, sep='\n ')
-   With a necessary quarantine period leaving me with several days of isolation with my laptop, I figured the best way to pass the time would be to revisit an older project that revolves around a pastime of Sudoku. This recursive sudoku solver was built in Eclipse using Java. It is based around a similar project from a previous ICS course I took in my freshman year. While the original was hardcoded to solve a handful of problems, had several bugs, and partially followed a proper code style guideline, this version now included a user interface where the user has the ability to input any sudoku problem to be solved via recursion. The program can also detect invalid sudoku problems as well as invalid user input. Because of its proximity to the holidays, the program also included some ASCII art. This project also included my first introduction to the AppleScript Programming language in order to get the .jar file to properly run on a Mac. Getting the .jar file to open on mac took a small script shown below.
- 
-def show_all(player,dealer):
-    print(Fore.RED +'\n______________')
-    print(Fore.RED +"Dealer's Hand:")
-    print('¯¯¯¯¯¯¯¯¯¯¯¯¯¯')
-    print(*dealer.cards, sep='\n ')
-    print("Dealer's Hand =",dealer.value)
-    print(Fore.BLUE +'\n______________')
-    print(Fore.BLUE +"%s's Hand:" % (playername))
-    print('¯¯¯¯¯¯¯¯¯¯¯¯¯¯')
-    print(*player.cards, sep='\n')
-    print("%s's Hand =" % (playername),player.value)
+   With a necessary quarantine period leaving me with several days of isolation with my laptop, I figured the best way to pass the time would be to revisit an older project that revolves around a pastime of Sudoku. This recursive sudoku solver was built in Eclipse using Java. 
+  It is based around a similar project from a previous ICS course I took in my freshman year. While the original was hardcoded to solve a handful of problems, had several bugs, and partially followed a proper code style guideline, this version now included a user interface where the user has th
+  e ability to input any sudoku problem to be solved via recursion. The program can also detect invalid sudoku problems as well as invalid user input. Because of its proximity to the holidays, the program also included some ASCII art. This project also included my first introduction to the Apple
+  Script Programming language in order to get the .jar file to properly run on a Mac. Getting the .jar file to open on mac took a small script shown below.
 </div>
 
 
