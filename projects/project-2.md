@@ -12,7 +12,8 @@ labels:
 summary: An application to manage customer's bank records stored in their database
 projecturl: https://hnlcory.github.io/projects/BankDB
 ---
-
+<div style="overflow: auto; max-height: 100vh; background-color: white;">
+  
 <img class="ui medium right floated rounded image" src="https://hnlcory.github.io/images/bankDB.png">
 
 The Bank Database project is intended to be an application used by bank staff which can store the information of their clients. The command prompt is utilized to interact with the system while the storage, addition, search, and deletion of customer records are handled by the database. 
@@ -33,3 +34,4 @@ These records allow the database to store information using a linked list. Throu
 The full project is on display at the link below.
 
 Source: <a href="https://github.com/hnlcory/ICS212/tree/main/project2"><i class="large github icon"></i>BankingDatabase</a>
+</div>
