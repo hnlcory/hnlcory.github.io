@@ -1,15 +1,15 @@
 ---
 layout: project
 type: project
-image: images/cotton-square.png
-title: Cotton
-permalink: projects/cotton
+image: images/blackjack1.png
+title: Blackjack
+permalink: projects/blackjack
 # All dates must be YYYY-MM-DD format!
-date: 2014-04-12
+date: 2020-06-08
 labels:
-  - Lisp
+  - Python
   - GitHub
-summary: A text adventure game I developed for ICS 313.
+summary: A text version of Blackjack created in my first College CS course
 ---
 
 <img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
