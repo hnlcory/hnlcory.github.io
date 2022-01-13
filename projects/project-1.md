@@ -13,29 +13,27 @@ summary: A recursive Sudkou Solver with holiday ASCII art.
 projecturl: https://hnlcory.github.io/projects/SudokuV1
 ---
 
-<div class="ui small rounded images">
-  <img class="ui image" src="../images/micromouse-robot.png">
-  <img class="ui image" src="../images/micromouse-robot-2.jpg">
-  <img class="ui image" src="../images/micromouse.jpg">
-  <img class="ui image" src="../images/micromouse-circuit.png">
-</div>
+<img class="ui medium left floated rounded image" src="https://hnlcory.github.io/images/sudoku2.png">
 
-Micromouse is an event where small robot “mice” solve a 16 x 16 maze.  Events are held worldwide.  The maze is made up of a 16 by 16 gird of cells, each 180 mm square with walls 50 mm high.  The mice are completely autonomous robots that must find their way from a predetermined starting position to the central area of the maze unaided.  The mouse will need to keep track of where it is, discover walls as it explores, map out the maze and detect when it has reached the center.  having reached the center, the mouse will typically perform additional searches of the maze until it has found the most optimal route from the start to the center.  Once the most optimal route has been determined, the mouse will run that route in the shortest possible time.
+With a necessary quarantine period leaving me with several days of isolation with my laptop, I figured the best way to pass the time would be to revisit an older project that revolves around a pastime of Sudoku. This recursive sudoku solver was built in Eclipse using Java. It is based around a similar project from a previous ICS course I took in my freshman year. While the original was hardcoded to solve a handful of problems, had several bugs, and partially followed a proper code style guideline, this version now included a user interface where the user has the ability to input any sudoku problem to be solved via recursion. The program can also detect invalid sudoku problems as well as invalid user input. Because of its proximity to the holidays, the program also included some ASCII art. This project also included my first introduction to the AppleScript Programming language in order to get the .jar file to properly run on a Mac. Getting the .jar file to open on mac took a small script shown below.
 
-For this project, I was the lead programmer who was responsible for programming the various capabilities of the mouse.  I started by programming the basics, such as sensor polling and motor actuation using interrupts.  From there, I then programmed the basic PD controls for the motors of the mouse.  The PD control the drive so that the mouse would stay centered while traversing the maze and keep the mouse driving straight.  I also programmed basic algorithms used to solve the maze such as a right wall hugger and a left wall hugger algorithm.  From there I worked on a flood-fill algorithm to help the mouse track where it is in the maze, and to map the route it takes.  We finished with the fastest mouse who finished the maze within our college.
-
-Here is some code that illustrates how we read values from the line sensors:
-
-```js
-byte ADCRead(byte ch)
-{
-    word value;
-    ADC1SC1 = ch;
-    while (ADC1SC1_COCO != 1)
-    {   // wait until ADC conversion is completed   
-    }
-    return ADC1RL;  // lower 8-bit value out of 10-bit data from the ADC
-}
+```
+tell application "Terminal"
+	if not (exists window 1) then reopen
+	activate
+	
+  set the bounds of the front window to {0, 0, 1100, 538}
+	-- x - x position in pixels
+	-- y - y position in pixels
+	-- w - width in pixels
+	-- h - height in pixels
+	
+  do script "cd desktop" in front window
+	do script "cd SudokuSolver" in front window
+	do script "clear" in front window
+	
+  do script "java -jar KayaSudoku.jar" in front window
+end tell
 ```
 
 You can learn more at the [UH Micromouse Website](http://www-ee.eng.hawaii.edu/~mmouse/about.html).
