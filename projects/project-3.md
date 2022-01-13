@@ -13,11 +13,10 @@ summary: A text version of Blackjack created in my first College CS course
 projecturl: https://hnlcory.github.io/projects/blackjack
 ---
 
-<img class="ui medium right floated rounded image" src="https://hnlcory.github.io/images/blackjack2.png">
-
+To give you a flavor of the game, here is abreak</div>
 Cotton is a horror-esque text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
 
-To give you a flavor of the game, here is abreak</div>
+<img class="ui medium right floated rounded image" src="https://hnlcory.github.io/images/blackjack2.png">
 
 <div  style="overflow-y: scroll; height:400px; background-color: white;">
    With a necessary quarantine period leaving me with several days of isolation with my laptop, I figured the best way to pass the time would be to revisit an older project that revolves around a pastime of Sudoku. This recursive sudoku solver was built in Eclipse using Java. 
