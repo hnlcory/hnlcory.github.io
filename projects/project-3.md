@@ -13,7 +13,7 @@ summary: A text version of Blackjack created in my first College CS course
 projecturl: https://hnlcory.github.io/projects/blackjack
 ---
 
-<div  style="overflow-y: scroll; height: 100vh; background-color: white;">
+<div  style="overflow-y: auto; background-color: white;">
   
   To give you a flavor of the game, here is abreak
 Cotton is a horror-esque text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
