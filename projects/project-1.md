@@ -24,9 +24,10 @@ While the original was hardcoded to solve a handful of problems, had several bug
 The program can also detect invalid sudoku problems as well as invalid user input. Because of its proximity to the holidays, the program also included some ASCII art. 
 
 This project also included my first introduction to the AppleScript Programming language in order to get the .jar file to properly run on a Mac. Getting the .jar file to open on mac took a small script shown below.
-
-<ul>
-<li><p>```
+    
+    
+  
+```
 tell application "Terminal"
 	if not (exists window 1) then reopen
 	activate
@@ -44,8 +45,6 @@ tell application "Terminal"
   do script "java -jar Sudoku.jar" in front window
 end tell
 ```
-</p></li>
-</ul>
 
 You can learn more at [this Github link](https://github.com/hnlcory/projectPrograms/tree/main/Final%20Sudoku).
 
