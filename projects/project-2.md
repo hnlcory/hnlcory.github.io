@@ -29,37 +29,7 @@ struct record
 };
 ```
 
-These records allow the database to store information using a linked list. Through extensive testing, the application is able to store a wide range of information as well as proper error handling, and debug options within the application. Information can be both read in, and stored inside .txt files allowing for data to be saved when the user exits the program. Makefile is also utilized to easily generate public, and debug builds of the application. A showcase of the data storage functionality is shown below.
-```
-int llist::writefile()
-{
-    #ifdef DEBUGMODE
-        std::cout << "\n-writefile Called-" << std::endl;
-    #endif
- 
-    int status = 0;
-    struct record * itr;
-    itr = this->start;
-    std::ofstream fileOut;
-    fileOut.open (filename);
-
-    if (itr == NULL) 
-    {
-        status = -1;
-    }
-
-    else 
-    {
-        while (status == 0 && itr != NULL)
-        {
-            fileOut << itr->accountno << "\n" << itr->name << "\n" << itr->address << "#\n";
-            itr = itr->next;           
-        }
-    }
-    fileOut.close();
-    return status;
-}
-```
+These records allow the database to store information using a linked list. Through extensive testing, the application is able to store a wide range of information as well as proper error handling, and debug options within the application. Information can be both read in, and stored inside .txt files allowing for data to be saved when the user exits the program. Makefile is also utilized to easily generate public, and debug builds of the application.
 The full project is on display at the link below.
 
 Source: <a href="https://github.com/hnlcory/ICS212/tree/main/project2"><i class="large github icon"></i>BankingDatabase</a>
