@@ -19,7 +19,7 @@ With a necessary quarantine period leaving me with several days of isolation wit
 
 While the original was hardcoded to solve a handful of problems, had several bugs, and partially followed a proper code style guideline, this version now included a user interface where the user has the ability to input any sudoku problem to be solved via recursion. The program can also detect invalid sudoku problems as well as invalid user input. Because of its proximity to the holidays, the program also included some ASCII art. 
 
-<img class="ui medium left floated rounded image" src="https://hnlcory.github.io/images/sudoku1.png">
+<img class="ui medium right floated rounded image" src="https://hnlcory.github.io/images/sudoku1.png">
 
 This project also included my first introduction to the AppleScript Programming language in order to get the .jar file to properly run on a Mac. Getting the .jar file to open on mac took a small script shown below.
 
