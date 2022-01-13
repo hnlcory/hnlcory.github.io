@@ -9,7 +9,7 @@ date: 2021-11-09
 labels:
   - C++
   - GitHub
-summary: An application to manage customer's bank records stored in their database.
+summary: An application to manage customer's bank records stored in their database
 projecturl: https://hnlcory.github.io/projects/BankDB
 ---
 
