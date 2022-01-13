@@ -24,8 +24,7 @@ While the original was hardcoded to solve a handful of problems, had several bug
 The program can also detect invalid sudoku problems as well as invalid user input. Because of its proximity to the holidays, the program also included some ASCII art. 
 
 This project also included my first introduction to the AppleScript Programming language in order to get the .jar file to properly run on a Mac. Getting the .jar file to open on 
-mac took a small script shown below.
-<br />
+mac took a small script shown below.<br />
 <br />
 ```
 tell application "Terminal"
