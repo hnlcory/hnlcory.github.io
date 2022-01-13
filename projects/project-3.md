@@ -10,6 +10,7 @@ labels:
   - Python
   - GitHub
 summary: A text version of Blackjack created in my first College CS course
+projecturl: https://hnlcory.github.io/projects/Blackjack
 ---
 
 <img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
