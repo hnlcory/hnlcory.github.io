@@ -40,7 +40,7 @@ tell application "Terminal"
 end tell
 ```
 
-You can learn more at the [UH Micromouse Website](http://www-ee.eng.hawaii.edu/~mmouse/about.html).
+You can learn more at [this Github link](https://github.com/hnlcory/projectPrograms/tree/main/Final%20Sudoku).
 
 
 
