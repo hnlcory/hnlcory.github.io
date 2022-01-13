@@ -19,9 +19,8 @@ Cotton is a horror-esque text-based adventure game I developed using the functio
 
 To give you a flavor of the game, here is a
 
-<hr>
+<md-content layout-padding="">
 
-<pre>
 '''
 Definitions
 '''
@@ -124,9 +123,9 @@ def dealer_wins(player,dealer,chips):
     
 def push(player,dealer):
     print(Fore.RED +"Tied Game. It's a push.")   
-</pre>
+   
+</md-content>
 
-<hr>
 test code
 Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
 
