@@ -12,7 +12,7 @@ labels:
 summary: An application to manage customer's bank records stored in their database
 projecturl: https://hnlcory.github.io/projects/BankDB
 ---
-<div style="overflow: auto; max-height: 100vh; background-color: white;">
+<div style="overflow: auto; max-height: 100vh; background-color: ffffffa1;">
   
 <img class="ui medium right floated rounded image" src="https://hnlcory.github.io/images/bankDB.png">
 
