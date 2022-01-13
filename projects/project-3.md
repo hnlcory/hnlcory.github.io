@@ -19,34 +19,7 @@ Cotton is a horror-esque text-based adventure game I developed using the functio
 
 To give you a flavor of the game, here is a
 
-<md-content layout-padding="">
 
-'''
-Definitions
-'''
-
-
-def take_bet(chips):
-    
-    while True:
-        try:
-            chips.bet = int(input('\nHi there %s. You currently have %s chips. How many chips will you bet?\n' % (playername, chips.total)))
-        except ValueError:
-            print('Please Choose a Number\n')
-        else:
-            if chips.bet > chips.total:
-                print("Sorry %s, your bet is higher than your total of" % (playername),chips.total)
-            else:
-                break  
-                
-def double_down(deck,hand):
-    hand.add_card(deck.deal())
-    hand.adjust_for_ace()
-    
-def hit(deck,hand):
-    
-    hand.add_card(deck.deal())
-    hand.adjust_for_ace()
 
 def hit_or_stand(deck,hand):
     global playing 
@@ -124,7 +97,9 @@ def dealer_wins(player,dealer,chips):
 def push(player,dealer):
     print(Fore.RED +"Tied Game. It's a push.")   
    
-</md-content>
+}
+
+
 
 test code
 Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
