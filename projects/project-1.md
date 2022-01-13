@@ -32,7 +32,7 @@ tell application "Terminal"
 	do script "cd SudokuSolver" in front window
 	do script "clear" in front window
 	
-  do script "java -jar KayaSudoku.jar" in front window
+  do script "java -jar Sudoku.jar" in front window
 end tell
 ```
 
