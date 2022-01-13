@@ -9,7 +9,7 @@ date: 2021-10-01
 labels:
   - Github
   - Java
-summary: A recursive Sudkou Solver with holiday ASCII art.
+summary: A recursive Sudkou Solver with holiday ASCII art
 projecturl: https://hnlcory.github.io/projects/SudokuV1
 ---
 
