@@ -19,6 +19,7 @@ Cotton is a horror-esque text-based adventure game I developed using the functio
 
 To give you a flavor of the game, here is abreak
 
+<div style="overflow-y: scroll; height:400px;">
 def show_some(player,dealer):
     print(Fore.RED +'\n______________')
     print(Fore.RED +"Dealer's Hand:")
@@ -43,7 +44,7 @@ def show_all(player,dealer):
     print('¯¯¯¯¯¯¯¯¯¯¯¯¯¯')
     print(*player.cards, sep='\n')
     print("%s's Hand =" % (playername),player.value)
-    
+</div>
 
 
 
