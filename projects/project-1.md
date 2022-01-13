@@ -25,6 +25,7 @@ The program can also detect invalid sudoku problems as well as invalid user inpu
 
 This project also included my first introduction to the AppleScript Programming language in order to get the .jar file to properly run on a Mac. Getting the .jar file to open on mac took a small script shown below.
 
+
 ```
 tell application "Terminal"
 	if not (exists window 1) then reopen
