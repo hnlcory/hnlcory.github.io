@@ -18,7 +18,7 @@ projecturl: https://hnlcory.github.io/projects/BankDB
 
 <br>The Bank Database project is intended to be an application used by bank staff which can store the information of their clients. The command prompt is utilized to interact with the system while the storage, addition, search, and deletion of customer records are handled by the database.<br><br>
 
-This project was created within the UH Unix system, utilizing the C++ platform. Data is stored within a structure called record shown below.<br>
+This project was created within the UH Unix system, utilizing the C++ platform. Data is stored within a structure called record shown below.
 
 <pre>
   <code>
