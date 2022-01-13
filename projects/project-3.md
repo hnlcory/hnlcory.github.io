@@ -15,7 +15,7 @@ projecturl: https://hnlcory.github.io/projects/blackjack
 
 <div  style="overflow-y: scroll; height:400px; background-color: white;">
   
-  To give you a flavor of the game, here is abreak</div>
+  To give you a flavor of the game, here is abreak
 Cotton is a horror-esque text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
 
 <img class="ui medium right floated rounded image" src="https://hnlcory.github.io/images/blackjack2.png">
