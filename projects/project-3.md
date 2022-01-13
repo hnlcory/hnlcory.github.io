@@ -19,7 +19,7 @@ Cotton is a horror-esque text-based adventure game I developed using the functio
 
 To give you a flavor of the game, here is abreak
 
-def show_some(player,dealer):
+div style="overflow-y: scroll;height: 120px;" class="col-xs- 4 col-sm-4  col-md-4 col-lg-4 vertical-scroll addScroll">In 1980, physicist Tim Berners-Lee, a contractor at CERN, proposed and prototyped ENQUIRE, a system for CERN researchers to use and shar CERN researchers to use and shar CERN researchers to use and shar CERN researchers to use and share documents. In 1989, Berners-Lee wrote a memo proposing adsfdsfdsfdsfdsfsdfds edsfsdfn Internet-based hypertext system. Berners-Lee specified HTML and wrote the browser and server software in late 1990.def show_some(player,dealer):
     print(Fore.RED +'\n______________')
     print(Fore.RED +"Dealer's Hand:")
     print('¯¯¯¯¯¯¯¯¯¯¯¯¯¯')
@@ -43,7 +43,10 @@ def show_all(player,dealer):
     print('¯¯¯¯¯¯¯¯¯¯¯¯¯¯')
     print(*player.cards, sep='\n')
     print("%s's Hand =" % (playername),player.value)
-    
+    </div>
+
+
+
 
 
 
