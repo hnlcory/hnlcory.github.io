@@ -49,6 +49,5 @@ end tell
 </code>
 </pre>
 
-You can learn more at [this Github link](https://github.com/hnlcory/projectPrograms/tree/main/Final%20Sudoku).
-
 </div>
+You can learn more at [this Github link](https://github.com/hnlcory/projectPrograms/tree/main/Final%20Sudoku).
