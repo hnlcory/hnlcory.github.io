@@ -12,21 +12,24 @@ labels:
 summary: A recursive Sudkou Solver with holiday ASCII art
 projecturl: https://hnlcory.github.io/projects/SudokuV1
 ---
-
+<div style="overflow: auto; max-height: 100vh; background-color: white;">
+	
 <img class="ui medium left floated rounded image" src="https://hnlcory.github.io/images/sudoku2.jpeg">
 
-With a necessary quarantine period leaving me with several days of isolation with my laptop, I figured the best way to pass the time would be to revisit an older project that revolves around a pastime of Sudoku. This recursive sudoku solver was built in Eclipse using Java. It is based around a similar project from a previous ICS course I took in my freshman year. 
+<br><br>With a necessary quarantine period leaving me with several days of isolation with my laptop, I figured the best way to pass the time would be to revisit an older project that revolves around a pastime of Sudoku. This recursive sudoku solver was built in Eclipse using Java. It is based around a similar project from a previous ICS course I took in my freshman year.<br><br>
 
 While the original was hardcoded to solve a handful of problems, had several bugs, and partially followed a proper code style guideline, this version now included a user interface where the user has the ability to input any sudoku problem to be solved via recursion.
 
 <img class="ui medium right floated rounded image" src="https://hnlcory.github.io/images/sudoku1.png">
 
-The program can also detect invalid sudoku problems as well as invalid user input. Because of its proximity to the holidays, the program also included some ASCII art. 
+The program can also detect invalid sudoku problems as well as invalid user input. Because of its proximity to the holidays, the program also included some ASCII art. <br><br>
 
 This project also included my first introduction to the AppleScript Programming language in order to get the .jar file to properly run on a Mac. Getting the .jar file to open on 
-mac took a small script shown below.<br />
-<br />
-```
+mac took a small script shown below.
+
+
+<pre>
+  <code>
 tell application "Terminal"
 	if not (exists window 1) then reopen
 	activate
@@ -43,8 +46,9 @@ tell application "Terminal"
 	
   do script "java -jar Sudoku.jar" in front window
 end tell
-```
+</code>
+</pre>
 
 You can learn more at [this Github link](https://github.com/hnlcory/projectPrograms/tree/main/Final%20Sudoku).
 
-
+</div>
