@@ -14,13 +14,13 @@ projecturl: https://hnlcory.github.io/projects/SudokuV1
 ---
 <div style="overflow: auto; max-height: 100vh; background-color: #ffffffb0;">
 	
-<img class="ui medium left floated image" src="https://hnlcory.github.io/images/sudoku2.jpeg">
+<img class="ui medium left rounded floated image" src="https://hnlcory.github.io/images/sudoku2.jpeg">
 
 With a necessary quarantine period leaving me with several days of isolation with my laptop, I figured the best way to pass the time would be to revisit an older project that revolves around a pastime of Sudoku. This recursive sudoku solver was built in Eclipse using Java. It is based around a similar project from a previous ICS course I took in my freshman year.<br><br>
 
 While the original was hardcoded to solve a handful of problems, had several bugs, and partially followed a proper code style guideline, this version now included a user interface where the user has the ability to input any sudoku problem to be solved via recursion.
 
-<img class="ui medium right floated image" src="https://hnlcory.github.io/images/sudoku1.png">
+<img class="ui medium right rounded floated image" src="https://hnlcory.github.io/images/sudoku1.png">
 
 The program can also detect invalid sudoku problems as well as invalid user input. Because of its proximity to the holidays, the program also included some ASCII art. <br><br>
 
