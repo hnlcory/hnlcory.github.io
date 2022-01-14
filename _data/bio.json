@@ -116,16 +116,38 @@
     }
   ],
   "volunteer": [
+     {
+      "organization": "JCHS Saber Security",
+      "website": "",
+      "position": "Advisor for JCHS Saber Security",
+      "startDate": "2021-06-01",
+      "endDate": "Present",
+      "summary": "Advising and assistance with general computer science questions, issues or concerns",
+      "highlights": [
+        ""
+      ]
+    },
     {
       "organization": "US Office of Elections",
-      "website": "http://manoa.hawaii.edu/reis",
+      "website": "https://elections.hawaii.gov/",
       "position": "Election Official",
       "startDate": "2018-08-01",
       "endDate": "2019-11-10",
-      "summary": "Lead developer for weather sensing project",
+      "summary": "",
       "highlights": [
         "Directing technical repair operations",
         "Ballot machine troubleshooting"
+      ]
+    },
+     {
+      "organization": "Mary, Star of the Sea Church",
+      "website": "",
+      "position": "Fundraising Assistant",
+      "startDate": "2019-04-01",
+      "endDate": "2019-05-01",
+      "summary": "Working with management to assist in planning and setup of Church fundraising events",
+      "highlights": [
+        ""
       ]
     }
   ],
