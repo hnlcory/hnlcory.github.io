@@ -48,5 +48,5 @@ tell application "Terminal"
 end tell
 </code>
 </pre>
-<p>You can learn more at <a href="https://github.com/hnlcory/projectPrograms/tree/main/Final%20Sudoku">this Github link</a></p>
+Source: <a href="https://github.com/hnlcory/projectPrograms/tree/main/Final%20Sudoku"><i class="large github icon"></i>BankingDatabase</a>
 </div>
