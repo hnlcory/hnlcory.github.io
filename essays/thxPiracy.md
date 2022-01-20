@@ -11,7 +11,7 @@ labels:
 ---
 
 <div style="overflow: auto; max-height: 80vh; background-color: #ffffff;">
-
+<img class="ui medium left floated image" src="../images/r4.jpeg">
 
 Software engineering is more than just a career path and emerging interest for me, it is an admiration that has stemmed from my childhood years. Growing up in a middle class family during what is arguably the largest financial crisis of the last 50 years meant that money was tight. While many of my peers possessed multiple gaming consoles, home computers, and the occasional iPod, I was fortunate enough to have my very own Nintendo DS console. This pocket handheld is what I hold responsible for the roots of my Computer Science interest.<br><br>  
 
