@@ -10,7 +10,7 @@ labels:
 ---
 
 <div style="overflow: auto; max-height: 80vh; background-color: #ffffff;">
-<img class="ui medium left floated image" src="../images/r4.jpeg">
+<img class="ui medium right floated image" src="../images/wod.png">
 With the first week of my Software Engineering course under my belt, I can say with confidence that my first exposure to Javascript has been interesting. I have found that there is a certain level of control provided by this programming language that other languages don't offer. One of my first takeaways of this was early on into the learning material. Being able to pass functions in as a parameter (first class functions) can simplify coding in a way where most languages refuse to do so. This can allow for smooth delegation of tasks in a function rather than having a function take in multiple parameters for various tasks.<br><br>
 
 To add to this overarching concept of expanded control, I never realized how useful an array structure could be when multiple data types can be used within the same array. Being primarily exposed to Java, Python, and most recently C/C++, the concept that all array data must be of the same type has been ingrained with no question as to why this is the case. Learning how arrays don’t truly exist, and the power of pointers in C last semester expanded my perspective on Computer Science, and while this may only be the first week of the course, I can see how this concept can aid in the simplification of problems. While C/C++ may be a faster language in practice, I still believe that Javascript will be a useful tool for software development.<br><br>
