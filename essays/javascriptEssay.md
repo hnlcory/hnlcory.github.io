@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Reflection on Javascript
+title: 16 weeks of he(alth/ll)
 # All dates must be YYYY-MM-DD format!
 date: 2022-01-17
 labels:
@@ -17,6 +17,8 @@ To add to this overarching concept of expanded control, I never realized how use
 
 Focusing on the class specifically, I am not sure if I am a fan of the approach on “athletic software engineering”. Though general praise of the teaching method was presented in the form of former student’s feedback, I believe that it is too early in the semester to know if I will properly adapt to this style of teaching. Previous courses have focused primarily on code quality, efficiency, and readability, not production speed. It does present a new challenge in the form of proof that I can apply concepts in a tense scenario, though I know that I could create cleaner, and more efficient code given more time to do so. The weekly WODs have been manageable at the moment, I have found that the repetition leads to more concise solutions after each iteration. WODs from the Teaching Assistant have also aided in affirming this. 
 
-After coming close to finishing the first Module in Software Engineering, I must say that the initial fears of biting off more than I can chew in a class workload have eased a bit. Establishing communication with my peers in the class has helped me to know that others are in the same boat, especially with the added obscurity of an online course versus an in person class. I am hopeful that at the conclusion of this semester I will have refined my skills to pass the WODs with confidence, and have a deeper appreciation for Software Development.
+After coming close to finishing the first Module in Software Engineering, I must say that the initial fears of biting off more than I can chew in a class workload have eased a bit. Establishing communication with my peers in the class has helped me to know that others are in the same boat, especially with the added obscurity of an online course versus an in person class. I am hopeful that at the conclusion of this semester I will have refined my skills to pass the WODs with confidence, and have a deeper appreciation for Software Development. I look forward to what experiences lie ahead of these 16 weeks.
+
+
  
 </div>
