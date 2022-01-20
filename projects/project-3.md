@@ -28,6 +28,6 @@ projecturl: https://hnlcory.github.io/projects/blackjack
 
 
 
-test code
+
 Source: <a href="https://replit.com/@hnlcory/Project-2-Cory-Parker#main.py"><i class="large github icon "></i>Blackjack</a>
 
