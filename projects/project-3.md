@@ -14,12 +14,12 @@ projecturl: https://hnlcory.github.io/projects/blackjack
 ---
 
 <div style="overflow: auto; max-height: 80vh; background-color: white;">
-  
- Blackjack was the first major project I had in a College level Computer Science course. This class ICS110 was offered by the University of Hawaii - Maui over the summer of 2020. This class primarily focused on developing python skills as well as general coding habits.
+<img class="ui medium right floated rounded image" src="https://hnlcory.github.io/images/blackjack2.png">
+ Blackjack was the first major project I had in a College level Computer Science course. This class ICS110 was offered by the University of Hawaii - Maui over the summer of 2020. This class primarily focused on developing python skills as well as general coding habits.<br><br>
 
-The game was coded in Python with the use of Repl.it for lightweight development, and allows for the game to run on laptops, desktop computers, and mobile devices. The main interface includes color distinctions between the AI and Player. The player begins with 100 chips and has the ability to wajor a certain amount of chips every game. In the event of a loss, the player loses chips, and loses the game when they no longer have any to wajor. 
+The game was coded in Python with the use of Repl.it for lightweight development, and allows for the game to run on laptops, desktop computers, and mobile devices. The main interface includes color distinctions between the AI and Player. The player begins with 100 chips and has the ability to wajor a certain amount of chips every game. In the event of a loss, the player loses chips, and loses the game when they no longer have any to wajor.<br><br>
 
-Card data is stored within its own class, and the player’s hand is stored in a Hand class. A snippet of the Hand class is shown below:
+Card data is stored within its own class, and the player’s hand is stored in a Hand class. A snippet of the Hand class is shown below:<br><br>
 <pre>
   <code>
 class Hand:
@@ -38,10 +38,8 @@ class Hand:
 </code>
 </pre>
 
-The user is able to Hit, Stand or Double Down whenever it is their turn. Normal blackjack rules apply to the game. Once the game ends, the dealer’s hidden card is revealed to the player.
+The user is able to Hit, Stand or Double Down whenever it is their turn. Normal blackjack rules apply to the game. Once the game ends, the dealer’s hidden card is revealed to the player.<br><br>
 
-
-<img class="ui medium right floated rounded image" src="https://hnlcory.github.io/images/blackjack2.png">
 
 Source: <a href="https://replit.com/@hnlcory/Project-2-Cory-Parker#main.py"><i class="large github icon"></i>Blackjack Game</a>
 </div>
