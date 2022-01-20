@@ -9,7 +9,7 @@ labels:
   - Software Engineering
 ---
 
-<div style="overflow: auto; max-height: 80vh; background-color: #ffffff;">
+<div style="overflow: auto; max-height: 80vh; background-color: #ffffffb0;">
 <img class="ui medium right floated image" src="../images/wod.png">
 With the first week of my Software Engineering course under my belt, I can say with confidence that my first exposure to Javascript has been interesting. I have found that there is a certain level of control provided by this programming language that other languages don't offer. One of my first takeaways of this was early on into the learning material. Being able to pass functions in as a parameter (first class functions) can simplify coding in a way where most languages refuse to do so. This can allow for smooth delegation of tasks in a function rather than having a function take in multiple parameters for various tasks.<br><br>
 
