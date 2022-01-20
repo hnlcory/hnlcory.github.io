@@ -19,7 +19,7 @@ projecturl: https://hnlcory.github.io/projects/blackjack
 
 <img class="ui medium right floated rounded image" src="https://hnlcory.github.io/images/blackjack2.png">
 
-Source: <a href="https://github.com/hnlcory/ICS212/tree/main/project2"><i class="large github icon"></i>BankingDatabase</a>
+Source: <a href="https://replit.com/@hnlcory/Project-2-Cory-Parker#main.py"><i class="large github icon"></i>Blackjack Game</a>
 </div>
 
 
