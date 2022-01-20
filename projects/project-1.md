@@ -12,7 +12,7 @@ labels:
 summary: A recursive Sudkou Solver with holiday ASCII art
 projecturl: https://hnlcory.github.io/projects/SudokuV1
 ---
-<div style="overflow: auto; max-height: 100vh; background-color: #ffffffb0;">
+<div style="overflow: auto; max-height: 80vh; background-color: #ffffffb0;">
 	
 <img class="ui medium left rounded floated image" src="https://hnlcory.github.io/images/sudoku2.jpeg">
 
