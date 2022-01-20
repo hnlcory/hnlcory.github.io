@@ -11,5 +11,5 @@ labels:
 
 <div style="overflow: auto; max-height: 80vh; background-color: #ffffff;">
 <img class="ui medium left floated image" src="../images/r4.jpeg">
-text placeholder
+With the first week of my Software Engineering course under my belt, I can say with confidence that my first exposure to Javascript has been interesting. 
 </div>
