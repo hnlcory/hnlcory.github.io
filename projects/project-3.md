@@ -20,7 +20,8 @@ projecturl: https://hnlcory.github.io/projects/blackjack
 The game was coded in Python with the use of Repl.it for lightweight development, and allows for the game to run on laptops, desktop computers, and mobile devices. The main interface includes color distinctions between the AI and Player. The player begins with 100 chips and has the ability to wajor a certain amount of chips every game. In the event of a loss, the player loses chips, and loses the game when they no longer have any to wajor. 
 
 Card data is stored within its own class, and the player’s hand is stored in a Hand class. A snippet of the Hand class is shown below:
-
+<pre>
+  <code>
 class Hand:
  # starter values
    def __init__(self):
@@ -34,7 +35,8 @@ class Hand:
   
    def adjust_for_ace(self):
        pass
-
+</code>
+</pre>
 
 The user is able to Hit, Stand or Double Down whenever it is their turn. Normal blackjack rules apply to the game. Once the game ends, the dealer’s hidden card is revealed to the player.
 
