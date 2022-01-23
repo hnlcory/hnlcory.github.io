@@ -13,7 +13,7 @@ summary: A text version of Blackjack created in my first College CS course
 projecturl: https://hnlcory.github.io/projects/blackjack
 ---
 
-<div style="overflow: auto; max-height: 80vh; background-color: #ffffffb0;">
+<div style="overflow: auto; max-height: 80vh; background-color: #ffffffb0; padding-left: 10px; padding-right: 10px;">
 <img class="ui medium right floated rounded image" src="https://hnlcory.github.io/images/blackjack2.png">
  Blackjack was the first major project I had in a College level Computer Science course. This class ICS110 was offered by the University of Hawaii - Maui over the summer of 2020. This class primarily focused on developing python skills as well as general coding habits.<br><br>
 
