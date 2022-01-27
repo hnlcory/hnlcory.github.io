@@ -35,4 +35,6 @@ A simple Google search for “play sound on button click in HTML” immediately 
 
   <h3>Wrapup</h3>
   
+  We must all learn from our mistakes in order to progress further in programming, and asking the occasional bad question is easily a shared experience at one point or another. It is up to us the individual to learn from our mistakes and forge better habits. Learning about smart question making from the perspective of others has helped me to both reinforce my ability to do so, as well as widening my eyes to the various sources of information.<br><br>
+  
 </div>
