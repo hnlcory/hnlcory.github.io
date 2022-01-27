@@ -21,14 +21,16 @@ In some niche cases, this information may be old/outdated or may not be clear in
   
   <h3>The Not So Good</h3>
  
-In a similar way that individuals migrating to a new region or society are expected to eventually assimilate into society, novice programmers are expected to learn the specific norms that take place within the programming community, including the exchange of information in questions. Without structure, and an adherence to expectations when asking questions, novice programmers have the possibility to harm both their chances of successful advice, and wasting the resources of others looking to foster a connection within the community. <a href="https://stackoverflow.com/questions/70860431/play-sound-when-button-clicked-html">In the provided example</a>, we can draw assumptions about the question being asked “Play sound when button clicked html”. The main body of the question does include a proper code snippet rather than a picture of code but displays a poor grammatical explanation of their problem, suggesting a rushed question with little work from the individual to seek out an answer on their own. " want to make that when you click on a button it makes a sound, i tryed this:"<br><br>
+In a similar way that individuals migrating to a new region or society are expected to eventually assimilate into society, novice programmers are expected to learn the specific norms that take place within the programming community, including the exchange of information in questions. Without structure, and an adherence to expectations when asking questions, novice programmers have the possibility to harm both their chances of successful advice, and wasting the resources of others looking to foster a connection within the community. <a href="https://stackoverflow.com/questions/70860431/play-sound-when-button-clicked-html">In the provided example</a>, we can draw assumptions about the question being asked “Play sound when button clicked html”. The main body of the question does include a proper code snippet rather than a picture of code but displays a poor grammatical explanation of their problem, suggesting a rushed question with little work from the individual to seek out an answer on their own. "I want to make that when you click on a button it makes a sound, i tryed this:"<br><br>
 
 <pre>
   <code>
+  
     <script type="text/javascript">
         var audio = new Audio('audio_file.mp3');
     </script>
-    <button id="Draw/Chat" onclick="audio.play();" type="button" style="font-weight:bold; background: none rgb(0, 255, 0); border: none; color: rgb(255, 255, 255); box-shadow: none; height: 52px; width: 110px; left: 190px; top: 80px; border-radius: 5px; cursor: pointer; position: absolute;">Draw/Chat</button>
+    <buton id="Draw/Chat" onclick="audio.play();" type="button" style="font-weight:bold; background: none rgb(0, 255, 0); border: none; color: rgb(255, 255, 255); box-shadow: none; height: 52px; width: 110px; left: 190px; top: 80px; border-radius: 5px; cursor: pointer; position: absolute;">Draw/Chat</buton>
+    
   </code>
  </pre>
   
