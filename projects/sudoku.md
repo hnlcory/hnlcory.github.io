@@ -21,7 +21,7 @@ While the original was hardcoded to solve a handful of problems, had several bug
 
 <img class="ui medium right rounded floated image" src="https://hnlcory.github.io/images/sudoku1.png" style="padding-top: 5px;">
 
-The program can also detect invalid sudoku problems as well as invalid user input. Because of its proximity to the holidays, the program also included some ASCII art. <br><br>
+The program can also detect unsolvable sudoku problems as well as invalid user input. Because of its proximity to the holidays, the program also included some ASCII art, and matching holiday themed music as the user interacts with the program.<br><br>
 
 This project also included my first introduction to the AppleScript Programming language in order to get the .jar file to properly run on a Mac. Getting the .jar file to open on 
 mac took a small script shown below.<br><br>
@@ -47,5 +47,7 @@ tell application "Terminal"
 end tell
 </code>
 </pre>
+While the input works as expected, the data inputting process can be tedious, and slow. As the program takes one number at a time to be stored in a 2D array, the input process would likely work better if the user could input data column by column or into an empty sudoku board. This small tweak is something I plan to do upon revisiting the project.<br>
+
 Source: <a href="https://github.com/hnlcory/projectPrograms/tree/main/Final%20Sudoku"><i class="large github icon"></i>SudokuSolver</a>
 </div>
