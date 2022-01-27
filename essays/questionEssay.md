@@ -26,10 +26,10 @@ In a similar way that individuals migrating to a new region or society are expec
 <pre>
   <code>
   
-    <script type="text/javascript">
+    &lt;script type="text/javascript"&gt;
         var audio = new Audio('audio_file.mp3');
-    </script>
-    <buton id="Draw/Chat" onclick="audio.play();" type="button" style="font-weight:bold; background: none rgb(0, 255, 0); border: none; color: rgb(255, 255, 255); box-shadow: none; height: 52px; width: 110px; left: 190px; top: 80px; border-radius: 5px; cursor: pointer; position: absolute;">Draw/Chat</buton>
+    &lt;/script&gt;
+    &lt;button id="Draw/Chat" onclick="audio.play();" type="button" style="font-weight:bold; background: none rgb(0, 255, 0); border: none; color: rgb(255, 255, 255); box-shadow: none; height: 52px; width: 110px; left: 190px; top: 80px; border-radius: 5px; cursor: pointer; position: absolute;"&gt;Draw/Chat&lt;/button&gt;
     
   </code>
  </pre>
