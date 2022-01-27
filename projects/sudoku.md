@@ -19,7 +19,7 @@ With a necessary quarantine period leaving me with several days of isolation wit
 
 While the original was hardcoded to solve a handful of problems, had several bugs, and partially followed a proper code style guideline, this version now included a user interface where the user has the ability to input any sudoku problem to be solved via recursion.
 
-<img class="ui medium right rounded floated image" src="https://hnlcory.github.io/images/sudoku1.png">
+<img class="ui medium right rounded floated image" src="https://hnlcory.github.io/images/sudoku1.png" style="padding-top: 5px;">
 
 The program can also detect invalid sudoku problems as well as invalid user input. Because of its proximity to the holidays, the program also included some ASCII art. <br><br>
 
