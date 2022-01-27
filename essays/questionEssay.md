@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title:  W̶h̶o̶ ̶W̶h̶a̶t̶ ̶W̶h̶y̶ How to ask questions
+title:  W̶h̶o̶ ̶W̶h̶a̶t̶ ̶W̶h̶y̶ How To Ask Smart Questions
 # All dates must be YYYY-MM-DD format!
 date: 2022-01-26
 labels:
