@@ -10,7 +10,6 @@ labels:
 ---
 
 <div style="overflow: auto; max-height: 80vh; background-color: #ffffffb0; padding-left: 10px; padding-right: 10px; padding-top: 8px;">
-<img class="ui medium right floated image" src="../images/wod.png">
 
 With the complexity of software increasing as large scale projects become more common, it is common for even the most prestigious developers to come across software bugs that require the assistance of other developers. One of the core positives of the development community is the accessibility of information. Almost any basic problem a user can run into has likely been solved with an explanation online. It is then on the individual themselves to seek out this info online.<br><br>
 
