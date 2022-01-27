@@ -47,7 +47,7 @@ tell application "Terminal"
 end tell
 </code>
 </pre>
-While the input works as expected, the data inputting process can be tedious, and slow. As the program takes one number at a time to be stored in a 2D array, the input process would likely work better if the user could input data column by column or into an empty sudoku board. This small tweak is something I plan to do upon revisiting the project.<br>
+While the input works as expected, the data inputting process can be tedious, and slow. As the program takes one number at a time to be stored in a 2D array, the input process would likely work better if the user could input data column by column or into an empty sudoku board. This small tweak is something I plan to do upon revisiting the project.<br><br>
 
 Source: <a href="https://github.com/hnlcory/projectPrograms/tree/main/Final%20Sudoku"><i class="large github icon"></i>SudokuSolver</a>
 </div>
