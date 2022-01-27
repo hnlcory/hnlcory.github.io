@@ -21,7 +21,7 @@ In some niche cases, this information may be old/outdated or may not be clear in
   
   <h3>The Not So Good</h3>
  
-In a similar way that individuals migrating to a new region or society are expected to eventually assimilate into society, novice programmers are expected to learn the specific norms that take place within the programming community, including the exchange of information in questions. Without structure, and an adherence to expectations when asking questions, novice programmers have the possibility to harm both their chances of successful advice, and wasting the resources of others looking to foster a connection within the community. <a href="https://stackoverflow.com/questions/70860431/play-sound-when-button-clicked-html">In the provided example</a>, we can draw assumptions about the question being asked “Play sound when button clicked html”. The main body of the question does include a proper code snippet rather than a picture of code but displays a poor grammatical explanation of their problem, suggesting a rushed question with little work from the individual to seek out an answer on their own. "I want to make that when you click on a button it makes a sound, i tryed this:"<br><br>
+In a similar way that individuals migrating to a new region or society are expected to eventually assimilate into society, novice programmers are expected to learn the specific norms that take place within the programming community, including the exchange of information in questions. Without structure, and an adherence to expectations when asking questions, novice programmers have the possibility to harm both their chances of successful advice, and wasting the resources of others looking to foster a connection within the community. <a href="https://stackoverflow.com/questions/70860431/play-sound-when-button-clicked-html">In the provided example</a>, we can draw assumptions about the question being asked “Play sound when button clicked html”. The main body of the question does include a proper code snippet rather than a picture of code but displays a poor grammatical explanation of their problem, suggesting a rushed question with little work from the individual to seek out an answer on their own. "I want to make that when you click on a button it makes a sound, i tryed this:"
 
 <pre>
   <code>
@@ -33,7 +33,6 @@ In a similar way that individuals migrating to a new region or society are expec
     
   </code>
  </pre>
-  
 A simple Google search for “play sound on button click in HTML” immediately returns <a href="https://stackoverflow.com/questions/12953928/immediate-play-sound-on-button-click-in-html-page/32800478">another thread</a> with the solution to the provided question as the first result. While the user asking the question appears to be extremely new to web design, and programming, adherence to norms reduces the clutter of multiple threads on a the same solution. As one of the immediate replies to this question was urging the user to search if their question was already answered before posting, this general consensus is shared by others in the community. We must all learn from our mistakes in order to progress further, and this is easily a shared experience between most novice programmers at one point or another.<br>
 
   <h3>Wrapup</h3>
