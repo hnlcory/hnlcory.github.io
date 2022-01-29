@@ -38,7 +38,7 @@ class Hand:
 </code>
 </pre>
 
-The user is able to Hit, Stand or Double Down whenever it is their turn. Normal blackjack rules apply to the game. Once the game ends, the dealer’s hidden card is revealed to the player. As my first sucessful large project, it is a key milestone towards my degree in Computer Science.<br><br>
+The user is able to Hit, Stand or Double Down whenever it is their turn. Normal blackjack rules apply to the game. Once the game ends, the dealer’s hidden card is revealed to the player. As my first successful large project, it is a key milestone towards my degree in Computer Science.<br><br>
 
 
 Source: <a href="https://replit.com/@hnlcory/Project-2-Cory-Parker#main.py"><i class="large github icon"></i>Blackjack Game</a>
