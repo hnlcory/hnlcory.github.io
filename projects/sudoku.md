@@ -9,7 +9,7 @@ date: 2021-10-01
 labels:
   - Github
   - Java
-summary: A recursive Sudkou Solver with holiday ASCII art
+summary: A recursive Sudoku Solver with holiday ASCII art
 projecturl: https://hnlcory.github.io/projects/SudokuV1
 ---
 <div style="overflow: auto; max-height: 80vh; background-color: #ffffffb0; padding-left: 10px; padding-right: 10px; padding-top: 8px;">
@@ -24,7 +24,7 @@ While the original was hardcoded to solve a handful of problems, had several bug
 The program can also detect unsolvable sudoku problems as well as invalid user input. Because of its proximity to the holidays, the program also included some ASCII art, and matching holiday themed music as the user interacts with the program.<br><br>
 
 This project also included my first introduction to the AppleScript Programming language in order to get the .jar file to properly run on a Mac. Getting the .jar file to open on 
-mac took a small script shown below.<br><br>
+Mac took a small script shown below.<br><br>
 
 
 <pre>

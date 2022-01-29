@@ -34,7 +34,7 @@ struct record
 
 These records allow the database to store information using a linked list. Through extensive testing, the application is able to store a wide range of information as well as proper error handling, and debug options within the application. Information can be both read in, and stored inside .txt files allowing for data to be saved when the user exits the program.<br><br>
   
-This project was initially designed in C to focus on the use of Pointers in order to pass or reference data. As a follow up project after familiarizing with the differences in C++, this application’s database was redesigned to utialize the advantages of C++ such as strings, passing by reference, and text outputting differences. The User Interface was also slightly modified to conform to these new changes.<br><br>
+This project was initially designed in C to focus on the use of Pointers in order to pass or reference data. As a follow-up project after familiarizing with the differences in C++, this application’s database was redesigned to utilize the advantages of C++ such as strings, passing by reference, and text outputting differences. The User Interface was also slightly modified to conform to these new changes.<br><br>
   
 Makefile is also utilized to easily generate public, and debug builds of the application. The full project is on display at the link below.<br><br>
 

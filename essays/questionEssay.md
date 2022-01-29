@@ -31,9 +31,9 @@ In a similar way that individuals migrating to a new region or society are expec
     &lt;button id="Draw/Chat" onclick="audio.play();" type="button" style="font-weight:bold; background: none rgb(0, 255, 0); border: none; color: rgb(255, 255, 255); box-shadow: none; height: 52px; width: 110px; left: 190px; top: 80px; border-radius: 5px; cursor: pointer; position: absolute;"&gt;Draw/Chat&lt;/button&gt;   
   </code>
  </pre>
-A simple Google search for “play sound on button click in HTML” immediately returns <a href="https://stackoverflow.com/questions/12953928/immediate-play-sound-on-button-click-in-html-page/32800478">another thread</a> with the solution to the provided question as the first result. While the user asking the question appears to be extremely new to web design, and programming, adherence to norms reduces the clutter of multiple threads on a the same solution. As one of the immediate replies to this question was urging the user to search if their question was already answered before posting, this general consensus is shared by others in the community.<br>
+A simple Google search for “play sound on button click in HTML” immediately returns <a href="https://stackoverflow.com/questions/12953928/immediate-play-sound-on-button-click-in-html-page/32800478">another thread</a> with the solution to the provided question as the first result. While the user asking appears to be extremely new to web design, and programming, adherence to norms reduces the clutter of multiple threads on the same solution. As one of the immediate replies to this question was urging the user to search if their question was already answered before posting, this general consensus is shared by others in the community.<br>
 
-  <h3>Wrapup</h3>
+  <h3>Wrap Up</h3>
   
   We must all learn from our mistakes in order to progress further in programming, and asking the occasional bad question is easily a shared experience at one point or another. It is up to us the individual to learn from our mistakes and forge better habits. Learning about smart question making from the perspective of others has helped me to both reinforce my ability to do so, as well as widening my eyes to the various sources of information.<br><br>
   
