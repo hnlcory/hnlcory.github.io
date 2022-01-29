@@ -14,7 +14,7 @@ projecturl: https://hnlcory.github.io/projects/blackjack
 ---
 
 <div style="overflow: auto; max-height: 80vh; background-color: #ffffffb0; padding-left: 10px; padding-right: 10px; padding-top: 8px;">
-<img class="ui medium right floated rounded image" src="https://hnlcory.github.io/images/blackjack2.png">
+<img class="ui medium right floated rounded image" src="https://hnlcory.github.io/images/blackjack2.png" alt="Image">
  Blackjack was the first major project I had in a College level Computer Science course. This class ICS110 was offered by the University of Hawaii - Maui over the summer of 2020. This class primarily focused on developing python skills as well as general coding habits.<br>
 
 <br>The game was coded in Python with the use of Repl.it for lightweight development, and allows for the game to run on laptops, desktop computers, and mobile devices. The main interface includes color distinctions between the AI and Player. The player begins with 100 chips and has the ability to wager a certain amount of chips every game.<br><br>

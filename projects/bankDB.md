@@ -14,7 +14,7 @@ projecturl: https://hnlcory.github.io/projects/BankDB
 ---
 <div style="overflow: auto; max-height: 80vh; background-color: #ffffffb0; padding-left: 10px; padding-right: 10px; padding-top: 8px;">
   
-<img class="ui medium right floated rounded image" src="https://hnlcory.github.io/images/bankDB.png">
+<img class="ui medium right floated rounded image" src="https://hnlcory.github.io/images/bankDB.png" alt="Image">
 
 The Bank Database project is intended to be an application used by bank staff which can store the information of their clients. The command prompt is utilized to interact with the system while the storage, addition, search, and deletion of customer records are handled by the database.<br><br>
 
