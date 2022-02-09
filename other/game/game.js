@@ -18,8 +18,9 @@ const square = {
   x: 0,
   xVelocity: 0,
   y: 0,
-  yVelocity: 10
-
+  yVelocity: 10,
+  dead : false,
+  color : '#8DAA9D'
 };
 
 // Create the obstacles for each frame
@@ -64,27 +65,28 @@ const controller = {
 
 const loop = function () {
 
-  //console.log(square.x);
+  console.log(square.x);
 
-  if (controller.up) {
+    if (square.dead === false) {
+    if (controller.up) {
 
-    square.yVelocity -= 2;
-    square.jumping = true;
+      square.yVelocity -= 2;
+      square.jumping = true;
 
+    }
+
+    if (controller.left) {
+
+      square.xVelocity -= 0.5;
+
+    }
+
+    if (controller.right) {
+
+      square.xVelocity += 0.5;
+
+    }
   }
-
-  if (controller.left) {
-
-    square.xVelocity -= 0.5;
-
-  }
-
-  if (controller.right) {
-
-    square.xVelocity += 0.5;
-
-  }
-
   square.yVelocity += 0.5;// gravity
   square.x += square.xVelocity;
   square.y += square.yVelocity;
@@ -93,10 +95,11 @@ const loop = function () {
 
   // if square is falling below floor line
   if (square.y > 586 - 16 - 32) {
-
+    //call dead
     square.jumping = false;
     square.y = 586 - 16 - 32;
     square.yVelocity = 0;
+    endGame();
 
   }
   // if square touch ceiling
@@ -112,19 +115,34 @@ const loop = function () {
     square.x = 0;
     square.xVelocity = 0;
 
-  } else if (square.x > 1220) {// if square goes past right boundary
+  } else if (square.x > 1220 - 32) {// if square goes past right boundary
 
+    //square.x = 1220 - 32;
+    //square.xVelocity = 0;
     square.x = -20;
-    nextFrame();
+    nextFrame(); //- triggers next level, tied to # of enemies
 
   }
+
+  function endGame(){
+    let deadX = square.x;
+    let deadY = square.y;
+    square.xVelocity = 0;
+    square.yVelocity = 0;
+    square.jumping = false;
+    square.dead = true;
+    square.x = deadX;
+    square.y = deadY;
+    square.color = '#FF0000';
+  }
+
   // Creates the backdrop for each frame
   context.fillStyle = "#201A23";
   context.fillRect(0, 0, 1220, 600); // x, y, width, height
 
 
   // Creates and fills the cube for each frame
-  context.fillStyle = "#8DAA9D"; // hex for cube color
+  context.fillStyle = square.color; // hex for cube color
   context.beginPath();
   context.rect(square.x, square.y, square.width, square.height);
   context.fill();
@@ -138,9 +156,9 @@ const loop = function () {
   obXCoors.forEach((obXCoor) => {
     context.beginPath();
 
-    context.moveTo(obXCoor, 385); // x = random, y = coor. on "ground"
-    context.lineTo(obXCoor + 20, 385); // x = ^random + 20, y = coor. on "ground"
-    context.lineTo(obXCoor + 10, 510 - height); // x = ^random + 10, y = peak of triangle
+    context.moveTo(obXCoor, 585); // x = random, y = coor. on "ground"
+    context.lineTo(obXCoor + 20, 585); // x = ^random + 20, y = coor. on "ground"
+    context.lineTo(obXCoor + 10, 710 - height); // x = ^random + 10, y = peak of triangle
 
     context.closePath();
     context.fill();
