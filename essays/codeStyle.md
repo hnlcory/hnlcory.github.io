@@ -20,6 +20,8 @@ While the argument can be made that code still runs without conforming to coding
 
 <h3>In Practice</h3>
 
+<img class="ui medium right floated image" src="../images/jsCode.png">
+
 With the first week of coding exclusively in IntelliJ with the defined coding standard, I can say with certainty that I enjoy having the aid of a development environment once again. As my most recent course involved coding in C/C++ exclusively in VI, the greeting of automated checks, auto complete functions, and generated files is a luxury I won’t forget to appreciate. As my previous development experience in an IDE comes from Eclipse, the transition to IntelliJ has been a relatively easy accomplishment. As IntelliJ appears more user friendly, I imagine the reverse to be significantly more challenging. A major part of development environments to me are the look and feel. As there are many hours to be spent working within their confines, it is a relief to find calm tones, and flat colors inside IntelliJ (A massive improvement from the unnecessarily bright colors of VI on Putty).<br><br>
 
 <h3>Overview</h3>
