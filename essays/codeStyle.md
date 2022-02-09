@@ -26,6 +26,6 @@ With the first week of coding exclusively in IntelliJ with the defined coding st
 
 <h3>Overview</h3>
 
-While adjusting to new coding standards, and a new environment can be a rocky start (especially when it comes to learning the various power shortcuts each environment creates), exposure to a wide variety of workflows is highly beneficial towards myself as a programmer as I never feel attached to a specific one. The ability to quickly pick up multiple language development is a skill I believe will be fundamental in my future undertakings.
+<br>While adjusting to new coding standards, and a new environment can be a rocky start (especially when it comes to learning the various power shortcuts each environment creates), exposure to a wide variety of workflows is highly beneficial towards myself as a programmer as I never feel attached to a specific one. The ability to quickly pick up multiple language development is a skill I believe will be fundamental in my future undertakings.
 
 </div>
