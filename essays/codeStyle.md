@@ -10,7 +10,7 @@ labels:
 ---
 
 <div style="overflow: auto; max-height: 80vh; background-color: #ffffffb0; padding-left: 10px; padding-right: 10px; padding-top: 8px;">
-<img class="ui medium right floated image" src="../images/wod.png">
+<img class="ui medium right floated image" src="../images/jsCode.png">
 
 In my first proper CS course with UH Manoa (ICS111), coding style was largely nonexistent for most of the semester. <a href="https://github.com/hnlcory/ICS111/blob/master/Project4/src/SubstringsV2.java">A wild west</a> scenario where spacing and indentation was whatever existed on screen after throwing a few lines of some type conversion code from a source to see if it solved the problem. Lines crunched together or random gaps of space where one method ends, and another begins. Variable names labeled only as random letters. A programmer’s perspective of anarchy within java files if you will. While this allowed for full focus on grasping the basic concepts taught, the transition towards strict coding standards in ICS 211 was a rocky start. While at the time I failed to truly understand or care for the underlying purpose of a coding standard, I can say with certainty that it is now a pet peeve to correct code that doesn’t conform to a standard.<br><br>
 
