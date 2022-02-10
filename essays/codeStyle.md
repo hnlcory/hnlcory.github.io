@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Conform to or Die Resisting - ᵃⁱʳᵇⁿᵇ ᶜᵒᵈⁱⁿᵍ ˢᵗʸˡᵉ
+title: Conform to or Die Resisting ⁻ ᵃⁱʳᵇⁿᵇ ᶜᵒᵈⁱⁿᵍ ˢᵗʸˡᵉ
 # All dates must be YYYY-MM-DD format!
 date: 2022-02-08
 labels:
