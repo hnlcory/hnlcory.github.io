@@ -19,9 +19,9 @@ labels:
 
 <p>Thankfully, at the close of our initial module on UI design basics, we were finally introduced to the world of CSS frameworks, specifically Semantic UI. Explaining the level of ease this simple change has given to peers has been quite difficult. With the utilization of Semantic UI, appealing website design can be achieved in a fraction of the time it would take to accomplish with pure HTML/CSS. Commonly used elements are given for quick usage, and are cleanly documented on their website. Variations of buttons, icons, input fields, and headers to your heart's content. No clue as to how a navigation bar on a website should be built? Semantic UI has taken the difficulty out of this equation by providing the code to a working demo with limitless customization. Want to evenly space out columns in the footer of a website? Semantic UI has documented an example that you can easily copy and tweak to your requirements. It is a way to significantly reduce the time spent creating website components while reducing the chance of errors when commonly used items are replicated. Truly a middle ground between sole HTML/CSS design and overly consumer friendly website design services such as Weebly.</p>
 
-<img class="ui medium left floated image" src="../images/blockFi.png">
 
 <h3>But How Good?</h3>
+<img class="ui medium left floated image" src="../images/blockFi.png">
 
 <p>While a learning curve will exist with any tool in Computer Science, Semantic UI has most certainly been the simplest tool to pick up. Imagine you are working with an apprentice handcrafted shoemaker. While the task of shoe making by hand will take long term experience to master, along with being repetitive work, imagine that you could introduce them to a tool that can be operated by them to produce exact replicas of various shoes which can be customized further by them. All while taking a fraction of the time to pick up. This is the scenario created by Semantic UI with web design. The initial learning curve pays back massive dividends in time saved replicating commonly used elements.</p>
 
