@@ -19,24 +19,29 @@ A web interface that users can login to that displays the status, history, and d
 <h1 id="approach">Approach</h1>
 
 Possible pages for user data visualization for include
-- Overview of network wide data (Token to USD price, hotspots total, current block)
-- User earnings page
-- User miner overview page
-- User diagnostic page (last connection time,  transmit ratio, etc)
-- Map of miner’s connections page<br>
+
+<ul>
+<li>Overview of network wide data (Token to USD price, hotspots total, current block)</li>
+<li>User earnings page</li>
+<li>User miner overview page</li>
+<li>User diagnostic page (last connection time,  transmit ratio, etc)</li>
+<li>Map of miner’s connections page</li>
+</ul>
   
  <h1 id="use-case-ideas">Use Case Ideas</h1>
-
-- Miner pools to track all user contributions to divide payment
-- Individuals to track multiple installations of miners in varying placements
-- Developers to quickly visualize network specific data or historical performances of miners
+<ul>
+<li>Miner pools to track all user contributions to divide payment</li>
+<li>Individuals to track multiple installations of miners in varying placements</li>
+<li>Developers to quickly visualize network specific data or historical performances of miners</li>
+</ul>
 
 <h1 id="beyond-the-basics">Beyond the Basics</h1>
-
-Dashboard to showcase earnings by day, week, and all time
-Map page to show hotspot beacons (interactions with other hotspots)
-Display wallet contents, payment history, and price in USD
-Display hotspot diagnostics ( location, uptime, antenna dbi, installation height, time since last interaction)
-Main page for overall Helium statistics (USD price for 1 HNT Token, block height, total number of hotspots in network, news related to the project)
+<ul>
+<li>Dashboard to showcase earnings by day, week, and all time</li>
+<li>Map page to show hotspot beacons (interactions with other hotspots)</li>
+<li>Display wallet contents, payment history, and price in USD</li>
+<li>Display hotspot diagnostics ( location, uptime, antenna dbi, installation height, time since last interaction)</li>
+<li>Main page for overall Helium statistics (USD price for 1 HNT Token, block height, total number of hotspots in network, news related to the project)</li>
+</ul>
 <br><br>
 </div>
