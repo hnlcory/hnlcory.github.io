@@ -38,5 +38,5 @@ Map page to show hotspot beacons (interactions with other hotspots)
 Display wallet contents, payment history, and price in USD
 Display hotspot diagnostics ( location, uptime, antenna dbi, installation height, time since last interaction)
 Main page for overall Helium statistics (USD price for 1 HNT Token, block height, total number of hotspots in network, news related to the project)
-<br>
+<br><br>
 </div>
