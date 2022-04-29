@@ -7,18 +7,19 @@ date: 2022-04-28
 labels:
   - Javascript
   - Design Patterns
+  - Meteor
 ---
 
 <div style="overflow: auto; max-height: 80vh; background-color: #ffffffb0; padding-left: 10px; padding-right: 10px; padding-top: 8px;">
 <img class="ui medium right floated image" src="../images/uglyCode.png">
 
-When the discussion of design patterns occurs, it can be easy to overlook what specifically
+<p>When the discussion of design patterns occurs, it can be easy to overlook what specifically
 is a design pattern or what occurs to implement a design pattern. Design patterns help to
 generate a structure for projects to effectively grow out and scale from its origin. 
 Acting as the “blueprint” to a project's direction, design patterns help to keep uniformity
-between commonly used elements in a project while keeping consistency in new changes.<br>
+between commonly used elements in a project while keeping consistency in new changes.</p>
 
-<h3>Why Bother</h3>
+<h3>Apartment Plans?</h3>
 
 <p>A strong example of a design pattern being implemented is when constructing apartment
 buildings. If a general contractor is tasked to direct the construction of a new apartment
@@ -45,6 +46,6 @@ Examples include our User Profile View as well as the Profile Viewer for other a
 these two components were introduced at varying times in production, the design patterns we
 established kept these two components from having varying functionality. Instead, both
 these pages display different information in almost identical ways. Design patterns at
-their core are crucial for software development and its ability to scale.</p>
+their core are crucial for software development and its ability to scale.</p><br>
 
 </div>
