@@ -11,7 +11,7 @@ labels:
 ---
 
 <div style="overflow: auto; max-height: 80vh; background-color: #ffffffb0; padding-left: 10px; padding-right: 10px; padding-top: 8px;">
-<img class="ui medium right floated image" src="../images/uglyCode.png">
+<img class="ui medium right floated image" src="../images/carpoolngo2.png" alt="pic">
 
 <p>When the discussion of design patterns occurs, it can be easy to overlook what specifically
 is a design pattern or what occurs to implement a design pattern. Design patterns help to
@@ -33,7 +33,7 @@ at an individual level). It is for these reasons that design patterns are establ
 
 <h3>In Practice</h3>
 
-<img class="ui medium right floated image" src="../images/jsCode.png">
+<img class="ui medium right floated image" src="../images/carpoolngo.png" alt="pic2">
 
 <p>In the same way that blueprints of an apartment building specify and implement specific
 details to remain constant, design patterns specify a way to maintain code readability and
