@@ -19,6 +19,8 @@ labels:
 
 <p>The use of Design Pattern was something that allowed me to effectively approach the development of similar aspects within the Final Project. As design patterns are sorts of problems in our environment that occur many times, this strategy of development led to quicker turnarounds on completing issues and therefore a more polished final product. In several pages, the user’s account data must be grabbed in order to either display content or to modify the current values. Because our group developed specific ways to accomplish this, code redundancy was reduced, which minimized confusion, points of failure, and allowed us to simplify testing in certain areas.</p>
 
+<img class="ui medium left floated image" src="../images/drc.png" alt="a picture of DRC logo">
+
 <p>Moving forward in my pursuit of a degree in computer security science, I have a newfound appreciation and interest in Software Engineering. Through the completion of this course, I have learned how to effectively program in a group environment, adjust to a new technology stack, and utilize development tools effectively to automate testing practices as well as mitigate potential issues through automatic checks, and design patterns. I believe that Software Engineering has been arguably the most impactful Computer Science course I have taken at the University, and I look forward to applying these development skills in a real working environment.</p>
 
 </div>
