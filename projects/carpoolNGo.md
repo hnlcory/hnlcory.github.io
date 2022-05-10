@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/bankDB.png
+image: images/carpoolLogo.jpeg
 title: Carpool-And-Go
 permalink: projects/carpoolNGo
 # All dates must be YYYY-MM-DD format!
