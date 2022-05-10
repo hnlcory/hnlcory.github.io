@@ -40,5 +40,5 @@ This project was initially designed in C to focus on the use of Pointers in orde
   
 Makefile is also utilized to easily generate public, and debug builds of the application. The full project is on display at the link below.<br><br>
 
-Source: <a href="https://github.com/hnlcory/ICS212/tree/main/project2"><i class="large github icon"></i>BankingDatabase</a>
+Source: <a href="https://carpool-and-go.github.io/"><i class="large github icon"></i>CarpoolNGo</a>
 </div>
