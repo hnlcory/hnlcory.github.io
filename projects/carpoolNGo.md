@@ -23,7 +23,7 @@ Carpool-and-Go is a web application project that aims to provide a communal netw
 </p>
 
 <p>
-
+This project was created using the Meteor framework in order to develop a Full-Stack Javascript application. The project is build on Javascript with MongoDB handling the database. UI components are developed with Semantic UI utilizing the official React integration. Testing for the application is automated via Test Café tests, and coding standards/error management are maintained via ESLint. Currently, the main build is deployed via Digital Ocean, and can be visited <a href="https://uh-carpool-and-go.xyz/#/">here</a>. 
 </p>
 This project was created within the UH Unix system, utilizing the C++ platform. Data is stored within a structure called record shown below.
 
