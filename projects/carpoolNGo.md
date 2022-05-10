@@ -22,8 +22,6 @@ projecturl: https://hnlcory.github.io/projects/carpoolNGo
 Carpool-And-Go is a web application project that aims to provide a communal network for University of Hawaii at Manoa, allowing for drivers to offer rides, and for riders to be able to search for drivers in their area. The goal of the project is take in what we have learned over the course of the semester to create a functioning meteor application that reflects teachings of the ICS 314 - Software Engineering course while providing exposure to Software development when a group scenario is given. 
 </p>
 
-<img class="ui medium left floated rounded image" src="https://hnlcory.github.io/images/landing-page.png" alt="Image">
-
 <p>
 This project was created using the Meteor framework in order to develop a Full-Stack Javascript application. The project is build on Javascript with MongoDB handling the database. UI components are developed with Semantic UI utilizing the official React integration. Testing for the application is automated via Test Café tests, and coding standards/error management are maintained via ESLint. Currently, the main build is deployed via Digital Ocean, and can be visited <a href="https://uh-carpool-and-go.xyz/#/">here</a>. 
 </p>
