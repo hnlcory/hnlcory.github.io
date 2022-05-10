@@ -11,8 +11,8 @@ labels:
   - Meteor
   - MongoDB
   - GitHub
-summary: A website to give UH students the ability to connect with others interested in carpooling to various places around the island. Both riders and drivers may seek out each other by location and time.  
-projecturl: https://carpool-and-go.github.io/
+summary: A website to give UH students the ability to connect with others interested in carpooling to various places around the island. Both riders and drivers may seek out each other by location and time.
+projecturl: https://hnlcory.github.io/projects/carpoolNGo
 ---
 <div style="overflow: auto; max-height: 80vh; background-color: #ffffffb0; padding-left: 10px; padding-right: 10px; padding-top: 8px;">
   
