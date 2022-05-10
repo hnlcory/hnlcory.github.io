@@ -18,8 +18,13 @@ projecturl: https://hnlcory.github.io/projects/carpoolNGo
   
 <img class="ui medium right floated rounded image" src="https://hnlcory.github.io/images/bankDB.png" alt="Image">
 
-The Bank Database project is intended to be an application used by bank staff which can store the information of their clients. The command prompt is utilized to interact with the system while the storage, addition, search, and deletion of customer records are handled by the database.<br><br>
+<p>
+Carpool-and-Go is a web application project that aims to provide a communal network for University of Hawaii at Manoa, allowing for drivers to offer rides, and for riders to be able to search for drivers in their area. The goal of the project is take in what we have learned over the course of the semester to create a functioning meteor application that reflects teachings of the ICS 314 - Software Engineering course while providing exposure to Software development when a group scenario is given. 
+</p>
 
+<p>
+
+</p>
 This project was created within the UH Unix system, utilizing the C++ platform. Data is stored within a structure called record shown below.
 
 <pre>
