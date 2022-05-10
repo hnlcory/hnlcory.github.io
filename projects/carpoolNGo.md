@@ -2,8 +2,8 @@
 layout: project
 type: project
 image: images/bankDB.png
-title: Banking Database Application
-permalink: projects/BankDB
+title: Carpool-And-Go
+permalink: projects/carpoolNGo
 # All dates must be YYYY-MM-DD format!
 date: 2022-05-09
 labels:
