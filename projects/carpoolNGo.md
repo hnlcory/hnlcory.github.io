@@ -32,7 +32,7 @@ This project was created using the Meteor framework in order to develop a Full-S
 Users of the application have a profile that displays the User in question’s profile as well as their role, location, profile picture, arrive and leave time, contact information, and their rating. Users can filter possible Drivers or Riders by their location to quickly find other carpool partners. Users can see the rating of other user's noted by a rating of 1-5 stars. Users may rate other users based on their experiences with them. In the event of a last-minute ride, users may request a ride using the fast-ride feed, allowing them to connect with people in last minute scenarios. 
 </p>
 
-<img class="ui medium right floated rounded image" src="https://hnlcory.github.io/images/bankDB.png" alt="Image">
+<img class="ui medium right floated rounded image" src="https://hnlcory.github.io/images/fast-ride-feed.png" alt="Image">
 
 <p>
 Users who have admin privileges (users whose email addresses end with @carpoolngo.com) have access to the Admin page, allowing them to audit all accounts stored in the website. They may view or edit details of other accounts as well as deleting accounts from the database. They may also filter accounts based on location. 
