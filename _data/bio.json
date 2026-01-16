@@ -11,20 +11,20 @@
       "address": "",
       "postalCode": "96822",
       "city": "Honolulu",
-      "countryCode": "USA",
+      "countryCode": "",
       "region": "Hawaii"
     },
     "profiles": [
       {
         "network": "github",
-        "username": "hnlcory",
+        "username": "GitHub",
         "url": "http://github.com/hnlcory"
       },
       {
         "network": "linkedin",
-        "username": "oahucory",
+        "username": "LinkedIn",
         "url": "http://linkedin.com/in/oahucory"
-      },
+      }
     ]
   },
   "interests": [
