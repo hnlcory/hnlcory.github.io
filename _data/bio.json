@@ -6,10 +6,10 @@
     "email": "school.coryparker@gmail.com",
     "phone": "",
     "website": "https://hnlcory.github.io",
-    "summary": "Beginning with an interest in the modification of gaming handhelds, the growing passion to explore software vulnerabilities and exploits has set my path toward the pursuit of a Computer Security Science degree at the University of Hawaiʻi at Mānoa. I plan to graduate in the Fall of 2024 with my Bachelor of Science.",
+    "summary": "Beginning with an interest in the modification of mobile devices, the growing passion to explore software vulnerabilities and exploits has set my path toward the pursuit of a Computer Security Science degree at the University of Hawaiʻi at Mānoa.",
     "location": {
       "address": "",
-      "postalCode": "96706",
+      "postalCode": "96822",
       "city": "Honolulu",
       "countryCode": "USA",
       "region": "Hawaii"
@@ -34,22 +34,12 @@
       ]
     },
     {
-      "name": "Data Mining",
-      "keywords": [
-      ]
-    },
-    {
       "name": "Open Source Software",
       "keywords": [
       ]
     },
     {
       "name": "Artificial Intelligence",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "Cryptocurrency",
       "keywords": [
       ]
     },
@@ -84,16 +74,7 @@
     }
   ],
   "education": [
-    {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Security Science (expected Fall, 2024)",
-      "studyType": "B.S.",
-      "startDate": "2020-05-01",
-      "endDate": "Present",
-      "gpa": "",
-      "courses": [
-      ]
-    }
+    
   ],
   "work": [
     {
